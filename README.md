@@ -1,6 +1,6 @@
 # compendium_mobile
 
-A new Flutter project.
+Compendium Flutter project
 
 ## Getting Started
 
